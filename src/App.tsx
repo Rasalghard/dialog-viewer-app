@@ -16,8 +16,6 @@ const Item = styled(Paper)(({ theme }) => ({
   width: "100%",
 }));
 
-const center = [51.505, -0.09];
-
 function App() {
   return (
     <Box sx={{ flexGrow: 1, height: "100%" }}>
